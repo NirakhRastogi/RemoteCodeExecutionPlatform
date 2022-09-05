@@ -1,0 +1,3 @@
+directory:
+  code: 'F:/Learning/Springboot/remotecodeexecution/src/main/resources/static/dockerfile/code/'
+  program: 'F:/Learning/Springboot/remotecodeexecution/src/main/resources/programs/'
